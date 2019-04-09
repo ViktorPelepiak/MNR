@@ -70,6 +70,7 @@ public class MainPanel extends JComponent {
     private RunFrame runFrame;
 
     private DefaultListModel listModel;
+
     private ArrayList<Command> commands;
 
 
