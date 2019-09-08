@@ -1,5 +1,6 @@
-//import javax.swing.*;
-import javafx.stage.FileChooser;
+package views;//import javax.swing.*;
+import enums.Type;
+import models.Command;
 
 import javax.swing.JLabel;
 import javax.swing.JList;
@@ -70,7 +71,6 @@ public class MainPanel extends JComponent {
     private RunFrame runFrame;
 
     private DefaultListModel listModel;
-
     private ArrayList<Command> commands;
 
 

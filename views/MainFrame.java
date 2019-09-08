@@ -1,3 +1,5 @@
+package views;
+
 import javax.swing.JFrame;
 import java.awt.HeadlessException;
 

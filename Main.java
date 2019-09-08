@@ -1,3 +1,5 @@
+import views.MainFrame;
+
 import java.awt.EventQueue;
 
 public class Main {

@@ -1,3 +1,8 @@
+package views;
+
+import models.Command;
+import models.State;
+
 import javax.swing.*;
 
 

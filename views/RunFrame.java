@@ -1,5 +1,8 @@
+package views;
+
+import models.Command;
+
 import javax.swing.JFrame;
-import java.awt.*;
 import java.util.ArrayList;
 
 public class RunFrame extends JFrame {

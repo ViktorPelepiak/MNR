@@ -1,3 +1,9 @@
+package models;
+
+import enums.Type;
+
+import static enums.Type.*;
+
 public class Command {
     private Type type;
     private int n;
